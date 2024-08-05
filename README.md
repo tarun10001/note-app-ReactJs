@@ -18,7 +18,8 @@ This is a Google Keep-inspired note-taking app built with React and Redux, featu
 1) React: A JavaScript library for building user interfaces.
 2) Redux: A state management library for JavaScript applications.
 3) TypeScript: A typed superset of JavaScript.
-4) CSS: Custom CSS for styling.
+4) Local Storage: For persisting data across browser sessions.
+5) CSS: Custom CSS for styling.
 
 # Here are the screenshots of note taking app
 ![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(40).png?raw=true)
