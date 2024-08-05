@@ -1,0 +1,12 @@
+/* variables */
+:root {
+  --color-light: #fff;
+  --dark-color: #000;
+  --grey-color: #acaaaa;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+  background-color: var(--dark-color);
+  color: var(--color-light);
+}
