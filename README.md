@@ -21,3 +21,11 @@ This is a Google Keep-inspired note-taking app built with React and Redux, featu
 4) CSS: Custom CSS for styling.
 
 # Here are the screenshots of note taking app
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(40).png?raw=true)
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(41).png?raw=true)
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(49).png?raw=true)
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(50).png?raw=true)
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(52).png?raw=true)
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(53).png?raw=true)
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(56).png?raw=true)
+![](https://github.com/tarun10001/note-app-ReactJs/blob/main/screen/Screenshot%20(54).png?raw=true)
